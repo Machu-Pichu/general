@@ -16,7 +16,7 @@ The need to share data among humanitarians is recognized. The addressable market
 # Roadmap of _Machu Picchu_
 Contributors can develop independently and contribute as a distinct project.
 * the first contribution is the hackhaton ETH-Online 2020, [a first idea but a bit complex to start with](https://github.com/Machu-Pichu/hackathon/)
-* the second contribution is Pepito, a demonstration game [(this Final Project)](https://github.com/kvutien/Machu-Picchu/tree/main/Pepito)
+* the second contribution is Pepito, a demonstration game [(my Final Project of the ConsenSys Bootcamp 2020)](https://github.com/kvutien/Machu-Picchu/tree/main/Pepito)
 
 Other contributions are welcome and could be:
 * a data management system to on-board, list and modify the persons in need, using OrbitDB and IPFS, with decentralised data schemas
